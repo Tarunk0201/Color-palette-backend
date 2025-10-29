@@ -251,7 +251,7 @@ Tarun
 
 GitHub: @Tarunk0201
 
-LinkedIn: [Your-LinkedIn-URL](https://www.linkedin.com/in/tarun-kumar-singh-b939972a2/)
+LinkedIn: [Tarun Kumar Singh](https://www.linkedin.com/in/tarun-kumar-singh-b939972a2/)
 
 📜 License
 
